@@ -9,3 +9,8 @@ O código apresentado possui:
 - Operadores de seleção: o método por roleta e por torneio, ambos com 50% de acontecerem;
 - Operador de cruzamento: 1 ponto de corte por variável;
 - Operador de mutação: *bit flip*.
+
+<hr>
+
+## Execução do código
+Para executar o código, basta chamar o arquivo `main.m` no *prompt* de comando do Matlab.
